@@ -1,0 +1,5 @@
+/.chainlit
+/.files
+/model
+/venv
+/__pycache__
